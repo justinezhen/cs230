@@ -10,7 +10,7 @@ I have not given my code to any student.
 
 
 import pandas as pd
-import matplotlib.pyplot as plt
+from matplotlib.pyplot as plt
 import streamlit as st
 import numpy as np
 import pydeck as pdk
